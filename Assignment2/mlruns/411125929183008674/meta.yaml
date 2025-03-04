@@ -1,0 +1,6 @@
+artifact_location: file:///home/himanshu/Downloads/data/mlruns/411125929183008674
+creation_time: 1741116445650
+experiment_id: '411125929183008674'
+last_update_time: 1741116445650
+lifecycle_stage: active
+name: SMS Spam Classification with Hyperparameter Tuning

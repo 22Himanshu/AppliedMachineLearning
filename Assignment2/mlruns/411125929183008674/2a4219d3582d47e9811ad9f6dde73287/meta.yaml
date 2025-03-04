@@ -1,0 +1,15 @@
+artifact_uri: file:///home/himanshu/Downloads/data/mlruns/411125929183008674/2a4219d3582d47e9811ad9f6dde73287/artifacts
+end_time: 1741116536590
+entry_point_name: ''
+experiment_id: '411125929183008674'
+lifecycle_stage: active
+run_id: 2a4219d3582d47e9811ad9f6dde73287
+run_name: Support Vector Machine
+run_uuid: 2a4219d3582d47e9811ad9f6dde73287
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741116531455
+status: 3
+tags: []
+user_id: himanshu
