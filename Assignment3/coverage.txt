@@ -1,0 +1,29 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.6, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/himanshu/PycharmProjects/AML_Assignment3
+plugins: cov-6.1.0
+collected 2 items
+
+test.py::test_score PASSED                                                      [ 50%]
+test.py::test_flask PASSED                                                     [100%]
+
+---------- coverage: platform linux, python 3.11.6-final-0 --------------------
+Name           Stmts   Miss  Cover   Missing
+------------------------------------------------
+score.py          50      2    96%   12-13
+app.py            80      5    94%   18-21, 28-33
+------------------------------------------------
+TOTAL             130      7    95%
+
+======================================================================
+Coverage Report:
+-----------------
+Name           Stmts   Miss  Cover   Missing
+------------------------------------------------
+score.py          50      2    96%   12-13
+app.py            80      5    94%   18-21, 28-33
+------------------------------------------------
+TOTAL             130      7    95%
+
+============================ no tests failed =============================
+
