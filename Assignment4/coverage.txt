@@ -1,0 +1,17 @@
+============================= test session starts ==============================
+platform linux -- Python 3.11.6, pytest-8.3.5, pluggy-1.5.0
+rootdir: /home/himanshu/PycharmProjects/AML_Assignment3
+plugins: cov-6.1.0
+collected 1 item
+
+test.py .                                                                [100%]
+
+---------- coverage: platform linux, python 3.11.6-final-0 -----------
+Name      Stmts   Miss  Cover   Missing
+---------------------------------------
+test.py      26      0   100%
+---------------------------------------
+TOTAL        26      0   100%
+
+
+======================== 1 passed in 116.86s (0:01:56) =========================

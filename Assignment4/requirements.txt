@@ -1,0 +1,6 @@
+flask
+joblib
+requests
+pytest
+pytest-cov
+scikit-learn
